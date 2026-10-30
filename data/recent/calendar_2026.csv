@@ -1,0 +1,24 @@
+round,event_name,country,location,event_date,event_format
+1,Australian Grand Prix,Australia,Melbourne,2026-03-08,conventional
+2,Chinese Grand Prix,China,Shanghai,2026-03-15,sprint_qualifying
+3,Japanese Grand Prix,Japan,Suzuka,2026-03-29,conventional
+4,Miami Grand Prix,United States,Miami Gardens,2026-05-03,sprint_qualifying
+5,Canadian Grand Prix,Canada,Montréal,2026-05-24,sprint_qualifying
+6,Monaco Grand Prix,Monaco,Monte Carlo,2026-06-07,conventional
+7,Barcelona Grand Prix,Spain,Barcelona,2026-06-14,conventional
+8,Austrian Grand Prix,Austria,Spielberg,2026-06-28,conventional
+9,British Grand Prix,United Kingdom,Silverstone,2026-07-05,sprint_qualifying
+10,Belgian Grand Prix,Belgium,Spa-Francorchamps,2026-07-19,conventional
+11,Hungarian Grand Prix,Hungary,Budapest,2026-07-26,conventional
+12,Dutch Grand Prix,Netherlands,Zandvoort,2026-08-23,sprint_qualifying
+13,Italian Grand Prix,Italy,Monza,2026-09-06,conventional
+14,Spanish Grand Prix,Spain,Madrid,2026-09-13,conventional
+15,Azerbaijan Grand Prix,Azerbaijan,Baku,2026-09-26,conventional
+16,Bahrain Grand Prix,Bahrain,Kuala Lumpur,2026-10-04,conventional
+17,Singapore Grand Prix,Singapore,Marina Bay,2026-10-11,sprint_qualifying
+18,United States Grand Prix,United States,Austin,2026-10-25,conventional
+19,Mexico City Grand Prix,Mexico,Mexico City,2026-11-01,conventional
+20,São Paulo Grand Prix,Brazil,São Paulo,2026-11-08,conventional
+21,Las Vegas Grand Prix,United States,Las Vegas,2026-11-21,conventional
+22,Qatar Grand Prix,Qatar,Lusail,2026-11-29,conventional
+23,Abu Dhabi Grand Prix,United Arab Emirates,Yas Marina,2026-12-06,conventional

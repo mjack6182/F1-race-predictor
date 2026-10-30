@@ -1,0 +1,23 @@
+driver_number,code,first_name,last_name,team
+43,COL,Franco,Colapinto,Alpine F1 Team
+10,GAS,Pierre,Gasly,Alpine F1 Team
+14,ALO,Fernando,Alonso,Aston Martin
+18,STR,Lance,Stroll,Aston Martin
+5,BOR,Gabriel,Bortoleto,Audi
+27,HUL,Nico,Hülkenberg,Audi
+77,BOT,Valtteri,Bottas,Cadillac F1 Team
+11,PER,Sergio,Pérez,Cadillac F1 Team
+44,HAM,Lewis,Hamilton,Ferrari
+16,LEC,Charles,Leclerc,Ferrari
+87,BEA,Oliver,Bearman,Haas F1 Team
+31,OCO,Esteban,Ocon,Haas F1 Team
+1,NOR,Lando,Norris,McLaren
+81,PIA,Oscar,Piastri,McLaren
+12,ANT,Andrea Kimi,Antonelli,Mercedes
+63,RUS,George,Russell,Mercedes
+30,LAW,Liam,Lawson,RB F1 Team
+41,LIN,Arvid,Lindblad,RB F1 Team
+6,HAD,Isack,Hadjar,Red Bull
+3,VER,Max,Verstappen,Red Bull
+23,ALB,Alexander,Albon,Williams
+55,SAI,Carlos,Sainz,Williams
