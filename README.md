@@ -33,7 +33,7 @@ Then launch Jupyter with `jupyter notebook` (or `jupyter lab`) and select the `f
 
 ## Data Placement
 
-The Kaggle CSVs are already committed in `data/raw/`. To refresh them, download the dataset from the Kaggle link above and replace the CSVs in `data/raw/` (`races.csv`, `results.csv`, `qualifying.csv`, `drivers.csv`, etc.). FastF1 exports go in `data/recent/`. The FastF1 cache folder is git-ignored.
+The Kaggle CSVs are already committed in `data/raw/`. To refresh them, download the dataset from the Kaggle link above and replace the CSVs in `data/raw/` (`races.csv`, `results.csv`, `qualifying.csv`, `drivers.csv`, etc.). FastF1 exports go in `data/recent/`. To refresh the 2025–26 results after new races, run `python -m src.fetch_recent` from the project root, then re-run `02_preprocessing`. The FastF1 cache folder is git-ignored.
 
 ## Deliverables
 
